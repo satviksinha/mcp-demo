@@ -1,0 +1,10 @@
+{
+  "test.js": {
+    "_this is my comment": 1,
+    "_this is my other comment": 3
+  },
+  "main.js": {
+    "_yet another comment": 1,
+    "_this is my other comment": 3
+  }
+}
