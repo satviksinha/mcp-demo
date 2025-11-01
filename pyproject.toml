@@ -9,7 +9,7 @@ dependencies = [
 ]
 
 [project.scripts]
-todo-mcp = "todo_mcp:run"
+todo_mcp = "todo_mcp:run"
 
 [build-system]
 requires = [ "setuptools" ]
